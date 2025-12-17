@@ -21,6 +21,3 @@ Feature Scaling – Standardized numerical features for better model performance
 Model Training – Used Logistic Regression to predict diabetes outcomes.
 
 Model Evaluation – Measured accuracy, precision, recall, F1-score, and visualized the confusion matrix.
-
-Using My machine learning Skills to Make this ML Model.
-Looking For More opportunities to make my self visible.
